@@ -1,0 +1,10 @@
+{john, [jill,joe,bob]}.
+{jill, [bob,joe,bob]}.
+{sue, [jill,jill,jill,bob,jill]}.
+{bob, [john]}.
+{joe, [sue]}.
+{nitin, [karan,kunal]}.
+{karan, [bob,jill,joe]}.
+{kunal, [sue]}.
+{neha, [jill,joe]}.
+{nish, [karan,kunal,neha,jill]}.
